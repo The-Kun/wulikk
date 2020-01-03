@@ -10,5 +10,8 @@ public class Wow {
 		System.out.println("菜鸡,不让用syso");
 		System.out.println("不让就不让,你凶什么凶");
 		System.out.println("主分支");
+     	System.out.println("第二个分支");
+		System.out.println("这就是第二个分支");
+
 	}
 }
